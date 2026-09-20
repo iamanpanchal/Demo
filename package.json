@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamanpanchal/Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/iamanpanchal/Demo/issues"
+  },
+  "homepage": "https://github.com/iamanpanchal/Demo#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.10.1"
+  }
+}
